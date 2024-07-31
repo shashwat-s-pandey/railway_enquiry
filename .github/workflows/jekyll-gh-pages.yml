@@ -37,18 +37,6 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        
-      - name: Execute Javascript
-        # You may pin to the exact commit or the version.
-        # uses: amochkin/action-javascript@849db047b1aaadb0dc5cb46831fe5c1bd892fcb0
-        uses: amochkin/action-javascript@v1
-        with:
-          # Javascript code to execute
-          js: app.js
-          # Input name with Javascript code
-          js_input: js # optional, default is js
-          # Output name to use for Javascript result
-          js_result: result # optional, default is result
           
 
   # Deployment job
