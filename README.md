@@ -1,5 +1,5 @@
 
-A front-end project
+A front-end project integrated with MySQL database using PHP
 
 Technologies used:
 - HTML
@@ -7,4 +7,6 @@ Technologies used:
 - JavaScript
 - BootStrap
 - JQuery
+- MySQL
+- PHP
 - RapidAPI (IRCTC API)
