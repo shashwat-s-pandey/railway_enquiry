@@ -15,4 +15,5 @@ Technologies used:
 <img width="1552" alt="Screenshot 2024-09-07 at 9 20 32 PM" src="https://github.com/user-attachments/assets/71c02794-d91d-44bb-9f44-ffcd86b8125e">
 <img width="1552" alt="Screenshot 2024-09-07 at 9 20 39 PM" src="https://github.com/user-attachments/assets/8a05cd11-4a5d-40a8-b2e6-3e526a401f37">
 <img width="1552" alt="Screenshot 2024-09-07 at 9 21 01 PM" src="https://github.com/user-attachments/assets/b4e690cf-a756-434b-acce-f1c19d9089a9">
-![Uploading Screenshot 2025-01-29 at 5.21.45 PM.png…]()
+<img width="1440" alt="Screenshot 2025-01-29 at 5 21 45 PM" src="https://github.com/user-attachments/assets/3a6bbc78-b7e0-4be7-9f85-a32fb8155afa" />
+
